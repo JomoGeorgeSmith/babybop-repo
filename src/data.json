@@ -1,0 +1,212 @@
+[
+    {
+      "id": 0,
+      "coverUrl": "https://www.dropbox.com/s/izy7585a8c24k2z/GalaxyExpress.png?raw=1",
+      "title": "Galaxy Express",
+      "artist": "Champloo Baby",
+      "TrackCount" : "",
+      "tracks": [
+        {
+          "title": "Emeraldes",
+          "audioUrl": "https://www.dropbox.com/s/oxd3nwcsawj8dxv/Emeraldes.wav?raw=1",
+          "albumId" : 0
+        },
+        {
+          "title": "Antares",
+          "audioUrl": "https://www.dropbox.com/s/us7xmm7wkjdqe4l/Antares.wav?raw=1",
+          "albumId" : 0
+        },
+        {
+          "title": "Andromeda",
+          "audioUrl": "https://www.dropbox.com/s/9gjwnmbn6rhncqw/Andromeda.wav?raw=1",
+          "albumId" : 0
+        },
+        {
+          "title": "Earth",
+          "audioUrl" : "https://www.dropbox.com/s/7txfd7wm41jbtww/Earth.wav?raw=1",
+          "albumId" : 0
+        },
+        {
+          "title": "Maetel",
+          "audioUrl" : "https://www.dropbox.com/s/m3s5gpqs7ge7qmp/Maetel.wav?raw=1",
+          "albumId" : 0
+        },
+        {
+          "title":"Harlock",
+          "audioUrl" :"https://www.dropbox.com/s/7gz4ml91q6y72f8/Harlock.wav?raw=1",
+          "albumId" : 0
+        },
+        {
+          "title":"Tetsuro",
+          "audioUrl" :"https://www.dropbox.com/s/xm2ee9ht6sv231l/Tetsuro.wav?raw=1",
+          "albumId" : 0
+        },
+        {
+          "title":"Adieu",
+          "audioUrl" :"https://www.dropbox.com/s/n91kop145iz0afh/Adieu.wav?raw=1",
+          "albumId" : 0
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "coverUrl": "https://www.dropbox.com/s/ebxwublzrgc854a/BabyBoyCover.png?raw=1",
+      "title": "Baby Boy",
+      "artist": "Champloo Baby",
+      "TrackCount" : "",
+      "tracks": [
+        {
+          "title": "Death Stranding",
+          "audioUrl": "https://www.dropbox.com/s/e6wz9v33lnyszy2/DeathStranding.mp3?raw=1",
+          "albumId" : 1
+        },
+        {
+          "title": "Diamond Dog",
+          "audioUrl": "https://www.dropbox.com/s/siqgd8i4yc4tu7c/Diamon%20Dog.mp3?raw=1",
+          "albumId" : 1
+        },
+        {
+          "title": "Twin Snakes",
+          "audioUrl": "https://www.dropbox.com/s/vt14wzynlyjivgg/Twin%20Snakes.wav?raw=1",
+          "albumId" : 1
+        },
+        {
+          "title": "Skull face",
+          "audioUrl": "https://www.dropbox.com/s/6p5b0yhqkowqany/Skullface.mp3?raw=1",
+          "albumId" : 1
+        },
+        {
+          "title": "Liquid Snake",
+          "audioUrl": "https://www.dropbox.com/s/phpehv47y6ryyhb/Liquid%20Snake.mp3?raw=1",
+          "albumId" : 1
+        },        {
+          "title": "FOXDIE",
+          "audioUrl": "https://www.dropbox.com/s/exwdavmbuskyn91/FOXDIE.mp3?raw=1",
+          "albumId" : 1
+        },
+        {
+          "title": "Phantom Pain",
+          "audioUrl": "https://www.dropbox.com/s/8k9dl19mryhxgx4/Phantom%20Pain.wav?raw=1",
+          "albumId" : 1
+        },        {
+          "title": "Snake Eater",
+          "audioUrl": "https://www.dropbox.com/s/p3t134u527hr2i0/Snake%20Eater.mp3?raw=1",
+          "albumId" : 1
+        },
+        {
+          "title": "Bye",
+          "audioUrl": "https://www.dropbox.com/s/p3t134u527hr2i0/Snake%20Eater.mp3?raw=1",
+          "albumId" : 1
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "coverUrl": "https://www.dropbox.com/s/8w1jnkx96ekdtza/GIRLALBUMCOVER.png?raw=1",
+      "title": "GIRL",
+      "artist": "Champloo Baby",
+      "TrackCount" : "",
+      "tracks": [
+        {
+          "title": "GIRL4",
+          "audioUrl": "https://www.dropbox.com/s/3j9f382qf0l6389/Girl4mp3.mp3?raw=1",
+          "albumId" : 2
+        },
+        {
+          "title": "Super Nintendo Girl",
+          "audioUrl": "https://www.dropbox.com/s/3j9f382qf0l6389/Girl4mp3.mp3?raw=1",
+          "albumId" : 2
+        },
+        {
+          "title": "When You Gonna Be My Girl",
+          "audioUrl": "https://www.dropbox.com/s/9tspik013nxqxat/When%20You%20Gonna%20Be%20My%20Girl.mp3?raw=1",
+          "albumId" : 2
+        },
+        {
+          "title": "Me",
+          "audioUrl": "https://www.dropbox.com/s/0gpwfql76vb3j5z/me.mp3?raw=1",
+          "albumId" : 2
+        },
+        {
+          "title": "Mula",
+          "audioUrl": "https://www.dropbox.com/s/w701afs8taojd6m/Mula.mp3?raw=1",
+          "albumId" : 2
+        },
+        {
+          "title": "DeezNutz",
+          "audioUrl": "https://www.dropbox.com/s/53ml9t9tvkk1lsv/DeezNutz.mp3?raw=1",
+          "albumId" : 2
+        },
+        {
+          "title": "CalmDown",
+          "audioUrl": "https://www.dropbox.com/s/qovrg0z4jr71f3g/CalmDown.mp3?raw=1",
+          "albumId" : 2
+        },
+        {
+          "title": "Basic",
+          "audioUrl": "https://www.dropbox.com/s/gkp70mvtmbyu5az/Basic.mp3?raw=1",
+          "albumId" : 2
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "coverUrl": "https://www.dropbox.com/s/qk62lq95zn9k8ub/Garmento%20Cover%20v1.png?raw=1",
+      "title": "Garmento",
+      "artist": "Champloo Baby",
+      "TrackCount" : "",
+      "tracks": [
+        {
+          "title": "Alexander Mcqueen",
+          "audioUrl": "https://www.dropbox.com/s/gumxgw8o2xbs0he/1-%20alexander%20mcqueen.m4a?raw=1",
+          "albumId" : 3
+        },
+        {
+          "title": "Squal",
+          "audioUrl": "https://www.dropbox.com/s/bdczr3q27ijizt2/2%20-%20squall.m4a?raw=1",
+          "albumId" : 3
+        },
+        {
+          "title": "Couture",
+          "audioUrl": "https://www.dropbox.com/s/wu04uaezlor2zwg/3%20-%20Couture.mp3?raw=1",
+          "albumId" : 3
+        },
+        {
+          "title": "Virgil Abloh",
+          "audioUrl": "https://www.dropbox.com/s/29ow857co7o646k/4%20-%20Virgil%20Abloh.mp3?raw=1",
+          "albumId" : 3
+        },
+        {
+          "title": "Atelier",
+          "audioUrl": "https://www.dropbox.com/s/6mc5w30iuydvnb9/5%20-%20Atelier.m4a?raw=1",
+          "albumId" : 3
+        },
+        {
+          "title": "Silhouette",
+          "audioUrl": "https://www.dropbox.com/s/0ytljn9qoxzv6qf/6%20-%20Silhouette.wav?raw=1",
+          "albumId" : 3
+        },
+        {
+          "title": "LaQuan",
+          "audioUrl": "https://www.dropbox.com/s/vutykn4va48v6bv/7%20-%20LaQuan.wav?raw=1",
+          "albumId" : 3
+        },
+        {
+          "title": "Ensemble",
+          "audioUrl": "https://www.dropbox.com/s/94m3k2ptrok3407/8%20-%20Ensemble.mp3?raw=1",
+          "albumId" : 3
+        },
+        {
+          "title": "Fashion Week Paris",
+          "audioUrl": "https://www.dropbox.com/s/ax5zdd8z74m49hu/9%20-%20Fashion%20Week%20Paris.wav?raw=1",
+          "albumId" : 3
+        },
+        {
+          "title": "Garmento",
+          "audioUrl": "https://www.dropbox.com/s/175rc3w0g16ulwb/10%20-%20Garmento.m4a?raw=1",
+          "albumId" : 3
+        }
+      ]
+    }
+  ]
+  
